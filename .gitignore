@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/orderease-app/node_modules
+
 /.pnp
 .pnp.*
 .yarn/*
